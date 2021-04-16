@@ -1,6 +1,15 @@
 {
  "featureSeries": [
    {
+     "name": "The Falcon and Winter Soldier (S01E05)",
+     "img": "https://res.cloudinary.com/jersondesigns/image/upload/v1617355271/163404155_1261867777544071_2357129270907518053_n_fjstnn.jpg",
+     "url": "noUrl",
+     "urlHd": "",
+     "rate": "Not Yet",
+     "tUrl": "https://youtu.be/30mVmdvLVyI",
+     "about": "Streaming On This Friday @2:30PM"   
+    },
+   {
      "name": "The Falcon and Winter Soldier (S01E04)",
      "img": "https://res.cloudinary.com/jersondesigns/image/upload/v1617953681/171180474_1859165877592373_9077679136819370054_n_bqmoee.jpg",
      "url": "https://nl33.seedr.cc/ff_get/890725598/FATWS%20S01E04.mkv?st=5jyV82pyjXHsUIsa7V7khA&e=1618486841",
@@ -37,13 +46,13 @@
      "about": "Sam Wilson and Bucky Barnes realize their futures will be anything but normal."
     },
     {
-     "name": "The Falcon and Winter Soldier (S01E05)",
+     "name": "The Falcon and Winter Soldier (S01E06)",
      "img": "https://res.cloudinary.com/jersondesigns/image/upload/v1617355271/163404155_1261867777544071_2357129270907518053_n_fjstnn.jpg",
      "url": "noUrl",
      "urlHd": "",
      "rate": "Not Yet",
      "tUrl": "https://youtu.be/30mVmdvLVyI",
-     "about": "Streaming On This Friday @2:30PM"   
+     "about": "Streaming On Next Friday @2:30PM"   
     }
   ]
 }
