@@ -1,5 +1,14 @@
 {
  "featureSeries": [
+  {
+     "name": "Loki: Episode 3",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTnpd4ICLci8j8cevzY-apCrQi_CwOyrsJw&usqp=CAU",
+     "url": "",
+     "urlHd": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoxRkDnN_hDKDvj1Z-o6jLJrku5dA4XqNtg&usqp=CAU",
+     "rate": "Not Yet",
+     "tUrl": "https://youtu.be/nW948Va-l10",
+     "about": "Streaming on 23th June 2021"
+   }
    {
      "name": "Loki: The Variant",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0chp7VTl4wNe1cT1JAP1pnOZKLnA7QEXKg&usqp=CAU",
@@ -19,7 +28,7 @@
      "about": "After stealing the Tesseract in “Avengers: Endgame,” Loki lands before the Time Variance Authority."
    },
    {
-     "name": "Loki: Episode 3",
+     "name": "Loki: Episode 4",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9000a8ZjXFiIohDw6OfUhvGMyQ7NTEJlj6w&usqp=CAU",
      "url": "",
      "urlHd": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCaYhSETDDzhVkYkS9crPMhWClb7vfNjeyvQ&usqp=CAU",
