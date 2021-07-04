@@ -1,18 +1,27 @@
 {
  "featureSeries": [
-   {
-     "name": "Loki: Episode 4",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9000a8ZjXFiIohDw6OfUhvGMyQ7NTEJlj6w&usqp=CAU",
-     "url": "https://nw6.seedr.cc/ff_get/947891147/Loki.S01E04.720p.WEB.x265-MiNX.mkv?st=b3LFqFLw9Vt6U4nRsviIMA&e=1625124550",
+  {
+     "name": "Loki: Episode 5",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHCVzwMfgt8ZyBh1JCnjVgfPSYAnoN_-ZaFg&usqp=CAU",
+     "url": "",
      "urlHd": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCaYhSETDDzhVkYkS9crPMhWClb7vfNjeyvQ&usqp=CAU",
+     "rate": "Not Yet",
+     "tUrl": "https://youtu.be/nW948Va-l10",
+     "about": "Streaming on 7th July 2021"
+   },
+   {
+     "name": "Loki: The Nexus Event",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9000a8ZjXFiIohDw6OfUhvGMyQ7NTEJlj6w&usqp=CAU",
+     "url": "https://nw6.seedr.cc/ff_get/947891147/Loki%20S01E04.mkv?st=QG6xUOt93ovieawcAaCSlg&e=1625492502",
+     "urlHd": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrUvZaEfqohUf_zVRlTNXS1d0qoti031uC5g&usqp=CAU",
      "rate": "Not Yet",
      "tUrl": "https://youtu.be/nW948Va-l10",
      "about": "The mercurial villain Loki resumes his role as the God of Mischief."
    },
   {
-     "name": "Loki: Lementis",
+     "name": "Loki: Lamentis",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTnpd4ICLci8j8cevzY-apCrQi_CwOyrsJw&usqp=CAU",
-     "url": "https://nl34.seedr.cc/ff_get/942784860/Loki%20E3.mkv?st=9BbIzbZbD3KTU2bpmhXOcw&e=1624519035",
+     "url": "https://nl34.seedr.cc/ff_get/942784860/Loki%20E3.mkv?st=E1tvvqZO6gdgox40SRnsWw&e=1625492487",
      "urlHd": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoxRkDnN_hDKDvj1Z-o6jLJrku5dA4XqNtg&usqp=CAU",
      "rate": "Not Yet",
      "tUrl": "https://youtu.be/nW948Va-l10",
@@ -21,7 +30,7 @@
    {
      "name": "Loki: The Variant",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0chp7VTl4wNe1cT1JAP1pnOZKLnA7QEXKg&usqp=CAU",
-     "url": "https://fr13.seedr.cc/ff_get/937822926/Loki%20E2.mkv?st=3lcChSmD3e45wCYo15VSvw&e=1624518823",
+     "url": "https://fr13.seedr.cc/ff_get/937822926/Loki%20E2.mkv?st=gB5yf0Fs5M9vfVnjvsO0kg&e=1625492513",
      "urlHd": "https://i.extraimages.net/images/2021/06/16/vlcsnap-2021-06-16-01h49m00s342.md.png",
      "rate": "8.8",
      "tUrl": "https://youtu.be/nW948Va-l10",
@@ -30,20 +39,11 @@
    {
      "name": "Loki: Glorious Purpose",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7YaBF3KoQ_w4GAd4A_xLlDiaeLAm4zm6gg&usqp=CAU",
-     "url": "https://nl25.seedr.cc/ff_get/939425576/Loki%20EP1.mkv?st=i7-LurawlRFyMMr_JTAIJw&e=1624518786",
+     "url": "https://nl25.seedr.cc/ff_get/939425576/Loki%20EP1.mkv?st=t2dZmT7t5sBnU5utq260uA&e=1625492527",
      "urlHd": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbC-K-Xi9Lr97ENK7FOyUZjn5J2ngce1wvlQ&usqp=CAU",
      "rate": "8.9",
      "tUrl": "https://youtu.be/nW948Va-l10",
      "about": "After stealing the Tesseract in “Avengers: Endgame,” Loki lands before the Time Variance Authority."
    },
-   {
-     "name": "Loki: Episode 5",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9000a8ZjXFiIohDw6OfUhvGMyQ7NTEJlj6w&usqp=CAU",
-     "url": "",
-     "urlHd": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCaYhSETDDzhVkYkS9crPMhWClb7vfNjeyvQ&usqp=CAU",
-     "rate": "Not Yet",
-     "tUrl": "https://youtu.be/nW948Va-l10",
-     "about": "Streaming on 7th July 2021"
-   }
   ]
 }
